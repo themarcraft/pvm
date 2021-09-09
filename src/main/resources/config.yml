@@ -1,0 +1,44 @@
+#
+# PVM v2.0
+# 
+# von _TheMarCraft_
+#
+
+# Die Tablist
+tablist:
+  # Die Kopfzeile der Tablist
+  header: §a§lDas ist die Kopfzeile
+  # Die Fußzeile der Tablist
+  footer: §a§lDas ist die Fußzeile
+# Beim '/chatclear' Command
+messages:
+  # Nachricht beim Löschen des Chats
+  chatclear: §7Der Chat wurde geleert
+
+  # Join Nachricht
+  join: '%player% ist gejoint'
+#
+# Dieses Plugin unterstützt Farbcodes:
+#
+#  §4	    Dunkelrot
+#  §c		Rot
+#  §6		Gold
+#  §e		Gelb
+#  §2		Dunkelgrün
+#  §a		Grün
+#  §b		Aqua
+#  §3		Dunkel Aqua
+#  §1		Dunkel Blau
+#  §9		Blau
+#  §d		Helles Lila
+#  §5		Dunkles Lila
+#  §f		Weiß
+#  §7		Grau
+#  §8		Dunkel Grau
+#  §0		Schwarz
+#  §r		Standard farbe/Schriftart
+#  §l		Fett
+#  §o		Italic
+#  §n		Unterstrichen
+#  §m		Durchgestrichen
+#  §k		g/Nu:?Itw!
